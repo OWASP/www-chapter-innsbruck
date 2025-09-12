@@ -1,4 +1,3 @@
 ### Leaders
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
+* [Sven Schleier](mailto:sven.schleier@owasp.org)
+* [Bettina Schleier](mailto:bettina.schleier@owasp.org)
