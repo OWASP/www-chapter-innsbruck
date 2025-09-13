@@ -1,0 +1,12 @@
+---
+title: NextEvent
+displaytext: Next Event
+layout:  col-sidebar
+tab: true
+level: 1
+tags: Innsbruck
+---
+
+## Example
+
+Put whatever you like here: news, screenshots, features, supporters, or remove this file and don't use tabs at all.
