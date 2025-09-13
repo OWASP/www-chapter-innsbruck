@@ -7,6 +7,6 @@ level: 1
 tags: Innsbruck
 ---
 
-## WKO Innsbruck
+## Next Event
 
 TBD

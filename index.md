@@ -10,6 +10,7 @@ country: Austria
 ---
 
 ## Welcome
+
 ![logo](img/Owasp_Tirol_Logo%20Berge.jpg)
 
 ## Participation
