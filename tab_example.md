@@ -1,9 +1,10 @@
 ---
-title: Example
-layout:  null
+title: Past Event
+displaytext: Past Event
+layout:  col-sidebar
 tab: true
-order: 1
-tags: example-tag
+level: 1
+tags: Innsbruck
 ---
 
 ## Example
