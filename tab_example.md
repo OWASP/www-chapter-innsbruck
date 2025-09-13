@@ -1,5 +1,5 @@
 ---
-title: Past Event
+title: PastEvent
 displaytext: Past Event
 layout:  col-sidebar
 tab: true
