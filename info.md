@@ -1,7 +1,3 @@
 ### Innsbruck Information
-* Provide Group Information
 
-### Social Links
-* [Meetup](#)
-
-
+* [Code Repository](https://github.com/OWASP/www-chapter-innsbruck)
