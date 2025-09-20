@@ -11,7 +11,7 @@ tags: Innsbruck
 
 Our first event is scheduled and it will happen on 30th October 2025!
 
-You can [register here](https://veranstaltung.wktirol.at/pages/common/step1.xhtml), where the full agenda is also available.
+You can [register here](http://veranstaltung.wktirol.at/27663), where the full agenda is also available.
 
 The venue is:
 Wirtschaftskammer Tirol
