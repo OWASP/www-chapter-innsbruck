@@ -1,0 +1,22 @@
+leaders:
+  - name: Sven Schleier
+    email: sven.schleier@owasp.org
+  - name: Bettina Schleier
+    email: bettina.schleier@owasp.org
+location:
+  country: Austria
+  country_code: AT
+  region: Tyrol
+  city: Innsbruck
+  latitude: 47.2654296
+  longitude: 11.3927685
+name: OWASP Innsbruck
+repositories:
+  - name: www-chapter-innsbruck
+    url: https://github.com/OWASP/www-chapter-innsbruck
+    description: OWASP Foundation web repository
+tags:
+  - Innsbruck
+  - custom-tag-1
+  - custom-tag-2
+website: https://owasp.org/www-chapter-innsbruck
