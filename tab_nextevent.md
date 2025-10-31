@@ -7,16 +7,13 @@ level: 1
 tags: Innsbruck
 ---
 
-## Next Event
 
-Our first event is scheduled and it will happen on 30th October 2025!
+Our next event will soon be scheduled!
 
-You can [register here](http://veranstaltung.wktirol.at/27663), where the full agenda is also available.
+<!-- You can [register here](http://veranstaltung.wktirol.at/27663), where the full agenda is also available.
 
 The venue is:
 Wirtschaftskammer Tirol
 Wilhelm-Greil-Str 7, 6020 Innsbruck
 
-We would like to sincerely thank the Wirtschaftskammer (WKO) Tyrol for kindly providing their facilities and support, as well as Peter Stelzhammer, speaker of the IT Security Experts Group Tyrol of the WKO, for his effort to make this happen.
-
-We look forward to welcoming you there!
+We look forward to welcoming you there! -->
