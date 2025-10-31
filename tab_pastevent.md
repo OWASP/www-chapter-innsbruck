@@ -1,4 +1,4 @@
----
+<!-- ---
 title: PastEvent
 displaytext: Past Event
 layout:  col-sidebar
@@ -8,4 +8,4 @@ tags: Innsbruck
 ---
 
 ## Past Events
-
+ -->

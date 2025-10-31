@@ -19,7 +19,7 @@ Whether you are a developer, a cybersecurity professional or someone who is simp
 
 ## Support - WKO Tyrol
 
-We would like to sincerely thank the Wirtschaftskammer (WKO) Tyrol for kindly providing their facilities and support, as well as Peter Stelzhammer, speaker of the IT Security Experts Group Tyrol of the WKO, for his support.
+We would like to sincerely thank the Wirtschaftskammer (WKO) Tyrol for kindly providing their facilities and support, as well as Peter Stelzhammer, speaker of the IT Security Experts Group Tyrol of the WKO for his support.
 
 ## OWASP Innsbruck Chapter
 
