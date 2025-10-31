@@ -13,16 +13,15 @@ tags: Innsbruck
 
 Our first event happened on 30th October 2025!
 
-You can [register here](http://veranstaltung.wktirol.at/27663), where the full agenda is also available.
-
 Agenda:
 
-17:00 - Eintreffen und Begrüßung
-17:30 - Vortrag: Was ist OWASP?
-18:00 - Vortrag & Live-Demo: "Secrets im Source Code - wie sie entstehen, welche Risiken sie bergen und wie man sie mit Open Source Tools automatisiert aufspürt und damit umgeht"
-18:30 - Networking - Gemeinsamer Ausklang und Diskussion
+17:00 - Arrival and welcome
+17:30 - Talk: What is OWASP? - [Slides](https://bit.ly/43CZtKZ 
+)
+18:00 - Talk and Demo: Secrets in Source Code - how to identify them, what are the risks and how to detect with openn source tools. [Slides](https://bit.ly/3X1tu3k)
+18:30 - Networking
 
-Die Vorträge werden von Sven Schleier gehalten, der sich seit 2016 bei OWASP engagiert und international in den Bereichen Application Security und Cloud Security aktiv ist.
+The talks were delivered by Sven Schleier who is actively supporting and advocating for OWASP since 2016 as project leader for the OWASP Mobile Application Security project.
 
 The venue is:
 Wirtschaftskammer Tirol
