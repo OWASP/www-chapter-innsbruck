@@ -27,28 +27,15 @@ OWASP Innsbruck was formed in September 2025 by Bettina and Sven Schleier.
 
 ## Next Meeting
 
-Our next event is being planned currently! Stay tuned.
+Our next event is happening on Tuesday 2nd December. Please register here: <http://veranstaltung.wktirol.at/28038>
 
-The venue will be:
+The venue is at:
+
 Wirtschaftskammer Tirol
 Wilhelm-Greil-Str 7, 6020 Innsbruck
 
 We look forward to welcoming you there!
 
-## Past Events
+Talk (will be in German): How To Breach: From Unconventional Initial Access Vectors To Modern Lateral Movement - by Benjamin Floriani
 
-### 1st OWASP Chapter Innsbruck meeting - 30th October 2025
-
-Our first event happened on 30th October 2025!
-
-Agenda:
-
-17:00 - Arrival and welcome
-
-17:30 - Talk: What is OWASP? - [Slides](https://drive.google.com/file/d/1wopnlZWmWlDkLdDodU_0sZauCxpIhyWe/view?usp=drive_link)
-
-18:00 - Talk and Demo: Secrets in Source Code - how to identify them, what are the risks and how to detect with open source tools. [Slides](https://drive.google.com/file/d/1hTeSzctq6HSuqY5UZJyf_CUiPrfjhSML/view?usp=sharing)
-
-18:30 - Networking
-
-The talks were delivered by Sven Schleier who is actively supporting and advocating for OWASP since 2016 as project leader for the OWASP Mobile Application Security project.
+Abstract: The perpetual cat-and-mouse game between attackers and defenders has pushed offensive security operators to innovate. While enterprise security teams have become adept at identifying and blocking malicious Office documents, suspicious executables, and known phishing URLs, a significant blind spot often remains: the gray area of "benign" file formats that are implicitly trusted by both users and security tools. This talk will arm attendees with the knowledge to identify and leverage these blind spots in red team engagements.

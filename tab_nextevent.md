@@ -1,4 +1,4 @@
----
+<!-- ---
 title: NextEvent
 displaytext: Next Event
 layout:  col-sidebar
@@ -16,4 +16,4 @@ The venue is:
 Wirtschaftskammer Tirol
 Wilhelm-Greil-Str 7, 6020 Innsbruck
 
-We look forward to welcoming you there! -->
+We look forward to welcoming you there! --> -->
