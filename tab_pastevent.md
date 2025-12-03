@@ -9,6 +9,14 @@ tags: Innsbruck
 
 ## Past Events
 
+### 2nd OWASP Chapter Innsbruck meeting - 2nd December 2025
+
+Talk (will be in German): How To Breach: From Unconventional Initial Access Vectors To Modern Lateral Movement - by Benjamin Floriani
+
+Abstract: The perpetual cat-and-mouse game between attackers and defenders has pushed offensive security operators to innovate. While enterprise security teams have become adept at identifying and blocking malicious Office documents, suspicious executables, and known phishing URLs, a significant blind spot often remains: the gray area of "benign" file formats that are implicitly trusted by both users and security tools. This talk will arm attendees with the knowledge to identify and leverage these blind spots in red team engagements.
+
+[Slides](https://drive.google.com/file/d/1VC3xqvsbw4ik1Gc9bbzju6tSmpbTYcIy/view?usp=sharing)
+
 ### 1st OWASP Chapter Innsbruck meeting - 30th October 2025
 
 Our first event happened on 30th October 2025!
