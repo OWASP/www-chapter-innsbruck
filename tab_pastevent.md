@@ -23,6 +23,8 @@ My successful participation in this competition opened my way into professional 
 
 I am currently deepening my knowledge in the areas of internal infrastructures and malware development. This enables me not only to increase the precision of our penetration tests, but also to implement techniques such as lateral movement, local privilege escalation and full domain compromise in red team engagements even more effectively.
 
+<br><br><br>
+
 ### 1st OWASP Chapter Innsbruck meeting - 30th October 2025
 
 Our first event happened on 30th October 2025!
