@@ -17,10 +17,10 @@ country: Austria
 
 <!-- <div style="background-color: #fff7f0; border-left: 4px solid #ff6b35; padding: 20px; margin-bottom: 20px;"> -->
 
-- **When:** Bi-Monthly, next on Wednesday 14th January 2026
-- **Time:** 18:30 onwards
-- **Location:** We've reserved a space at "Wohnzimmer" Fürstenweg 5, 6020 Innsbruck
-- **Language:** [German and English]
+- **📅 When:** Bi-Monthly, next on Wednesday 14th January 2026
+- **🕐 Time:** 18:30 onwards
+- **📍 Location:** We've reserved a space at "Wohnzimmer" Fürstenweg 5, 6020 Innsbruck
+- **🗣️ Language:** [German and English]
 
 Casual meetup for people interested in cybersecurity in Innsbruck! No formal presentations—just good conversations, knowledge sharing, and networking over coffee or drinks.
 
