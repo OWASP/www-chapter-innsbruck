@@ -45,9 +45,9 @@ Here is the agenda for our next meeting:
 - 18:00 - Talk: A Whirlwind Tour of Software Vulnerabilities (a gentle introduction) by Matthias Gander
 - 18:20 - Networking - Snacks and Drinks
 
-## Details to talks
+### Details to talks
 
-### Talk: Semgrep: An introduction to custom rule writing by Will Douglas
+#### Talk: Semgrep: An introduction to custom rule writing by Will Douglas
 
 **Abstract**:
 
@@ -57,7 +57,7 @@ Semgrep is a static analysis tool used for scanning source code to identify pote
 
 Will Douglas is the Team Leader for Product Security Engineering at MED-EL focusing on the security of both medical and non-medical products throughout their development lifecycle prior to release. He initially started out working in different IT and web development positions before transitioning to cybersecurity in early 2015. His introduction to the professional cybersecurity space was focused primarily on offensive security as a Security Consultant for Cigital, a company which was later acquired by Synopsys. In 2021 he moved from the United States to Austria to join MED-EL's Product Security team where he holds his current position.
 
-### Talk: A Whirlwind Tour of Software Vulnerabilities (a gentle introduction) by Matthias Gander
+#### Talk: A Whirlwind Tour of Software Vulnerabilities (a gentle introduction) by Matthias Gander
 
 **Abstract**:
 
