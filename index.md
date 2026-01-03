@@ -74,3 +74,47 @@ OWASP Innsbruck was formed in September 2025 by Bettina and Sven Schleier.
 ## Support - WKO Tyrol
 
 We would like to sincerely thank the Wirtschaftskammer (WKO) Tyrol for kindly providing their facilities and support, as well as Peter Stelzhammer, speaker of the IT Security Experts Group Tyrol of the WKO for his support.
+
+<script>
+// Add clickable link icons to all headings
+document.addEventListener('DOMContentLoaded', function() {
+  const headings = document.querySelectorAll('h2, h3, h4, h5, h6');
+  
+  headings.forEach(heading => {
+    if (!heading.id) return; // Skip if no ID
+    
+    // Create the link icon
+    const link = document.createElement('a');
+    link.href = '#' + heading.id;
+    link.innerHTML = ' 🔗';
+    link.className = 'heading-anchor';
+    link.title = 'Copy link to clipboard';
+    link.style.textDecoration = 'none';
+    link.style.opacity = '0';
+    link.style.transition = 'opacity 0.2s';
+    link.style.marginLeft = '8px';
+    link.style.fontSize = '0.8em';
+    
+    // Copy to clipboard when clicked
+    link.addEventListener('click', function(e) {
+      e.preventDefault();
+      const url = window.location.href.split('#')[0] + '#' + heading.id;
+      
+      navigator.clipboard.writeText(url).then(() => {
+        link.innerHTML = ' ✓';
+        setTimeout(() => link.innerHTML = ' 🔗', 1500);
+      }).catch(() => {
+        // Fallback if clipboard fails
+        alert('Link: ' + url);
+      });
+    });
+    
+    // Show icon on hover
+    heading.addEventListener('mouseenter', () => link.style.opacity = '0.5');
+    heading.addEventListener('mouseleave', () => link.style.opacity = '0');
+    link.addEventListener('mouseenter', () => link.style.opacity = '1');
+    
+    heading.appendChild(link);
+  });
+});
+</script>
