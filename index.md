@@ -21,7 +21,13 @@ It is a global community that has provided knowledge, tools and standards as ope
 
 Whether you are a developer, a cybersecurity professional or someone who is simply interested in software and application security, OWASP Innsbruck provides a platform for learning, knowledge sharing and networking. Through a variety of events and initiatives, we strive to create an inclusive environment where everyone can contribute, learn and grow.
 
-## Next Meeting
+## Next Meetings
+
+### Informal networking for the local cyber security community
+
+Casual after-work drinks for the local cyber security community. No talks, no agenda just good conversation and networking over a beer. We've reserved a space at "Wohnzimmer" (Fürstenweg 5, 6020 Innsbruck) on 14th January 2026 from 18:30. Drop by anytime!
+
+### OWASP Chapter Innsbruck Meeting
 
 Our next event is happening on Thursday 5th February 2026. Please register here: <http://veranstaltung.wktirol.at/28037>
 
