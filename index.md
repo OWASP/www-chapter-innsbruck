@@ -38,45 +38,46 @@ country: Austria
 
 ## 🎤 3rd OWASP Chapter Meeting - February 5, 2026
 
-<!-- <div style="background-color: #f0f7ff; border-left: 4px solid #0066cc; padding: 20px; margin-bottom: 20px;"> -->
+<div style="background-color: #f0f7ff; border-left: 4px solid #0066cc; padding: 20px; margin-bottom: 20px;">
 
-**📅 When:** Bi-monthly, next on Thursday, February 5, 2026  
-**🕐 Time:** 17:00 - 18:30  
-**📍 Location:** Wirtschaftskammer Tirol, Wilhelm-Greil-Str 7, 6020 Innsbruck  
-**🗣️ Language:** This time, the entire meet-up will be in English!  
+<p><strong>📅 When:</strong> Bi-monthly, next on Thursday, February 5, 2026</p>
+<p><strong>🕐 Time:</strong> 17:00 - 18:30</p>
+<p><strong>📍 Location:</strong> Wirtschaftskammer Tirol, Wilhelm-Greil-Str 7, 6020 Innsbruck</p>
+<p><strong>🗣️ Language:</strong> This time, the entire meet-up will be in English!</p>
 
-**[📝 Register Here →](http://veranstaltung.wktirol.at/28037)**
+<p><strong><a href="http://veranstaltung.wktirol.at/28037">📝 Register Here →</a></strong></p>
 
-### Agenda
+<h4>Agenda</h4>
+<ul>
+  <li>17:00 - Welcome to OWASP Innsbruck + Updates - <em>Sven Schleier</em></li>
+  <li>17:15 - <strong>Semgrep: Custom Rule Writing</strong> - <em>Will Douglas</em></li>
+  <li>18:00 - <strong>A Whirlwind Tour of Software Vulnerabilities</strong> - <em>Matthias Gander</em></li>
+  <li>18:20 - Networking &amp; Drinks 🍺</li>
+</ul>
 
-- 17:00 - Welcome to OWASP Innsbruck + Updates - *Sven Schleier*
-- 17:15 - **Semgrep: Custom Rule Writing** - *Will Douglas*
-- 18:00 - **A Whirlwind Tour of Software Vulnerabilities** - *Matthias Gander*
-- 18:20 - Networking & Drinks 🍺
+<h4>Details to talks</h4>
 
-### Details to talks
+<h5>Talk: Semgrep: An introduction to custom rule writing by Will Douglas</h5>
 
-#### Talk: Semgrep: An introduction to custom rule writing by Will Douglas
+<p><strong>Abstract:</strong></p>
 
-**Abstract**:
+<p>Semgrep is a static analysis tool used for scanning source code to identify potential vulnerabilities but also can be used for other cases that might be of interest to a developer such as code correctness. There is both an enterprise and a free and open-source version of Semgrep but this presentation will focus on custom rule writing for the free version. The custom rules afforded by Semgrep allows practitioners to identify bugs and continually adapt those rules based their tested reliability through triaging reported results along with information gleaned from other security activities.</p>
 
-Semgrep is a static analysis tool used for scanning source code to identify potential vulnerabilities but also can be used for other cases that might be of interest to a developer such as code correctness. There is both an enterprise and a free and open-source version of Semgrep but this presentation will focus on custom rule writing for the free version. The custom rules afforded by Semgrep allows practitioners to identify bugs and continually adapt those rules based their tested reliability through triaging reported results along with information gleaned from other security activities.
+<p><strong>Bio Will Douglas:</strong></p>
 
-**Bio Will Douglas**:
+<p>Will Douglas is the Team Leader for Product Security Engineering at MED-EL focusing on the security of both medical and non-medical products throughout their development lifecycle prior to release. He initially started out working in different IT and web development positions before transitioning to cybersecurity in early 2015. His introduction to the professional cybersecurity space was focused primarily on offensive security as a Security Consultant for Cigital, a company which was later acquired by Synopsys. In 2021 he moved from the United States to Austria to join MED-EL's Product Security team where he holds his current position.</p>
 
-Will Douglas is the Team Leader for Product Security Engineering at MED-EL focusing on the security of both medical and non-medical products throughout their development lifecycle prior to release. He initially started out working in different IT and web development positions before transitioning to cybersecurity in early 2015. His introduction to the professional cybersecurity space was focused primarily on offensive security as a Security Consultant for Cigital, a company which was later acquired by Synopsys. In 2021 he moved from the United States to Austria to join MED-EL's Product Security team where he holds his current position.
+<h5>Talk: A Whirlwind Tour of Software Vulnerabilities (a gentle introduction) by Matthias Gander</h5>
 
-#### Talk: A Whirlwind Tour of Software Vulnerabilities (a gentle introduction) by Matthias Gander
+<p><strong>Abstract:</strong></p>
 
-**Abstract**:
+<p>Software is the foundation of everything from critical infrastructure to daily conveniences. But what happens when that foundation has cracks? This lightning talk provides a high-level introduction to the world of software vulnerabilities. We will move quickly to establish the core concepts and motivations behind vulnerabilities, explore common types of weaknesses that plague modern systems, and demystify how we find, enumerate (like CVE), and rate (like CVSS) these critical flaws. This session is perfect for those new to the field or seasoned experts looking for a concise refresher on the fundamentals.</p>
 
-Software is the foundation of everything from critical infrastructure to daily conveniences. But what happens when that foundation has cracks? This lightning talk provides a high-level introduction to the world of software vulnerabilities. We will move quickly to establish the core concepts and motivations behind vulnerabilities, explore common types of weaknesses that plague modern systems, and demystify how we find, enumerate (like CVE), and rate (like CVSS) these critical flaws. This session is perfect for those new to the field or seasoned experts looking for a concise refresher on the fundamentals.
+<p><strong>Bio Matthias Gander:</strong></p>
 
-**Bio Matthias Gander**:
+<p>Matthias Gander is a senior Information Security Manager for Swarovski with a background in computer science. He brings a diverse perspective from his past roles, which include penetration testing, security consulting, and lecturing at the university of Innsbruck. Today, he focuses on the strategic side of security, e.g., building security programs, writing policies, and having endless discussions about managing risk.</p>
 
-Matthias Gander is a senior Information Security Manager for Swarovski with a background in computer science. He brings a diverse perspective from his past roles, which include penetration testing, security consulting, and lecturing at the university of Innsbruck. Today, he focuses on the strategic side of security, e.g., building security programs, writing policies, and having endless discussions about managing risk.
-
-<!-- </div> -->
+</div>
 
 ---
 
