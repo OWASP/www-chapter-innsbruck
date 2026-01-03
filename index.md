@@ -37,6 +37,27 @@ Drop by and looking forward to meet you!
 
 ## 🎤 Next OWASP Chapter Meeting - February 5, 2026
 
+<div style="background-color: #e8f4f8; border-left: 4px solid #2196F3; padding: 20px; margin-bottom: 25px;">
+
+**Date:** Thursday, February 5, 2026  
+**Time:** 17:00 - 18:30  
+**Location:** Wirtschaftskammer Tirol, Wilhelm-Greil-Str 7, 6020 Innsbruck  
+**Language:** This time, the entire meet-up will be in English!
+
+**[Register Here →](http://veranstaltung.wktirol.at/28037)**
+
+#### Agenda
+
+- 17:00 - Welcome to OWASP Innsbruck + Updates - *Sven Schleier*
+- 17:15 - **Semgrep: Custom Rule Writing** - *Will Douglas*
+- 18:00 - **A Whirlwind Tour of Software Vulnerabilities** - *Matthias Gander*
+- 18:20 - Networking - Snacks and Drinks
+
+</div>
+
+
+
+
 <div style="background-color: #f0f7ff; border-left: 4px solid #0066cc; padding: 20px; margin-bottom: 20px;">
 
 **📅 Date:** Thursday, February 5, 2026  
