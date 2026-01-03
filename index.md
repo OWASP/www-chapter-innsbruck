@@ -47,7 +47,7 @@ country: Austria
 
 <p><strong><a href="http://veranstaltung.wktirol.at/28037">📝 Register Here →</a></strong></p>
 
-<h4>Agenda</h4>
+<h3>Agenda</h3>
 <ul>
   <li>17:00 - Welcome to OWASP Innsbruck + Updates - <em>Sven Schleier</em></li>
   <li>17:15 - <strong>Semgrep: Custom Rule Writing</strong> - <em>Will Douglas</em></li>
@@ -55,9 +55,9 @@ country: Austria
   <li>18:20 - Networking &amp; Drinks 🍺</li>
 </ul>
 
-<h4>Details to talks</h4>
+<h3>Details to talks</h3>
 
-<h5>Talk: Semgrep: An introduction to custom rule writing by Will Douglas</h5>
+<h4>Talk: Semgrep: An introduction to custom rule writing by Will Douglas</h4>
 
 <p><strong>Abstract:</strong></p>
 
@@ -67,7 +67,7 @@ country: Austria
 
 <p>Will Douglas is the Team Leader for Product Security Engineering at MED-EL focusing on the security of both medical and non-medical products throughout their development lifecycle prior to release. He initially started out working in different IT and web development positions before transitioning to cybersecurity in early 2015. His introduction to the professional cybersecurity space was focused primarily on offensive security as a Security Consultant for Cigital, a company which was later acquired by Synopsys. In 2021 he moved from the United States to Austria to join MED-EL's Product Security team where he holds his current position.</p>
 
-<h5>Talk: A Whirlwind Tour of Software Vulnerabilities (a gentle introduction) by Matthias Gander</h5>
+<h4>Talk: A Whirlwind Tour of Software Vulnerabilities (a gentle introduction) by Matthias Gander</h4>
 
 <p><strong>Abstract:</strong></p>
 
