@@ -11,39 +11,49 @@ country: Austria
 
 ![logo](img/Owasp_Tirol_Logo%20Berge.jpg)
 
-## Welcome
+# 📅 Upcoming Events
 
-Welcome to the OWASP Innsbruck Chapter, your regional chapter in Tyrol, Austria.
+## ☕ Informal Networking for the Local Cyber Security Community
 
-**What is OWASP?**
+<div style="background-color: #fff7f0; border-left: 4px solid #ff6b35; padding: 20px; margin-bottom: 20px;">
 
-It is a global community that has provided knowledge, tools and standards as open source for over 20 years to help develop more secure software and applications. The spectrum ranges from web and mobile apps to generative AI and secure software development in general.
-
-Whether you are a developer, a cybersecurity professional or someone who is simply interested in software and application security, OWASP Innsbruck provides a platform for learning, knowledge sharing and networking. Through a variety of events and initiatives, we strive to create an inclusive environment where everyone can contribute, learn and grow.
-
-## Next Meetings
-
+**📅 When:** Bi-Monthly, next on Wednesday 14th January 2026
+**🕐 Time:** 18:30 onwards
+**📍 Location:** We've reserved a space at "Wohnzimmer" Fürstenweg 5, 6020 Innsbruck
+**🗣️ Language:** [German and English]
 ### Informal networking for the local cyber security community
 
-Casual after-work drinks for the local cyber security community. No talks, no agenda just good conversation and networking over a beer. We've reserved a space at "Wohnzimmer" (Fürstenweg 5, 6020 Innsbruck) on 14th January 2026 from 18:30. Drop by anytime!
 
-### OWASP Chapter Innsbruck Meeting
+Casual meetups for cybersecurity professionals in Innsbruck! No formal presentations—just good conversations, knowledge sharing, and networking over coffee or drinks.
 
-Our next event is happening on Thursday 5th February 2026. Please register here: <http://veranstaltung.wktirol.at/28037>
+**Who should come?**
 
-The venue is at:
+- Security professionals
+- Developers interested in application security
+- Students exploring cybersecurity
+- Anyone curious about it and want to meet new people
 
-Wirtschaftskammer Tirol
-Wilhelm-Greil-Str 7, 6020 Innsbruck
+Drop by and looking forward to meet you!
 
-**Note**: This time, the entire meet-up will be in English.
+</div>
 
-Here is the agenda for our next meeting:
+## 🎤 Next OWASP Chapter Meeting - February 5, 2026
 
-- 17:00 - Welcome to the OWASP Chapter Innsbruck and updates - Sven Schleier
-- 17:15 - Talk: Semgrep: An introduction to custom rule writing by Will Douglas
-- 18:00 - Talk: A Whirlwind Tour of Software Vulnerabilities (a gentle introduction) by Matthias Gander
-- 18:20 - Networking - Snacks and Drinks
+<div style="background-color: #f0f7ff; border-left: 4px solid #0066cc; padding: 20px; margin-bottom: 20px;">
+
+**📅 Date:** Thursday, February 5, 2026  
+**🕐 Time:** 17:00 - 18:30  
+**📍 Location:** Wirtschaftskammer Tirol, Wilhelm-Greil-Str 7, 6020 Innsbruck  
+**🗣️ Language:** This time, the entire meet-up will be in English!  
+
+**[📝 Register Here →](http://veranstaltung.wktirol.at/28037)**
+
+### Agenda
+
+- 17:00 - Welcome to OWASP Innsbruck + Updates - *Sven Schleier*
+- 17:15 - **Semgrep: Custom Rule Writing** - *Will Douglas*
+- 18:00 - **A Whirlwind Tour of Software Vulnerabilities** - *Matthias Gander*
+- 18:20 - Networking, Snacks & Drinks 🍕🍺
 
 ### Details to talks
 
@@ -66,6 +76,20 @@ Software is the foundation of everything from critical infrastructure to daily c
 **Bio Matthias Gander**:
 
 Matthias Gander is a senior Information Security Manager for Swarovski with a background in computer science. He brings a diverse perspective from his past roles, which include penetration testing, security consulting, and lecturing at the university of Innsbruck. Today, he focuses on the strategic side of security, e.g., building security programs, writing policies, and having endless discussions about managing risk.
+
+</div>
+
+---
+
+## Welcome
+
+Welcome to the OWASP Innsbruck Chapter, your regional chapter in Tyrol, Austria.
+
+**What is OWASP?**
+
+It is a global community that has provided knowledge, tools and standards as open source for over 20 years to help develop more secure software and applications. The spectrum ranges from web and mobile apps to generative AI and secure software development in general.
+
+Whether you are a developer, a cybersecurity professional or someone who is simply interested in software and application security, OWASP Innsbruck provides a platform for learning, knowledge sharing and networking. Through a variety of events and initiatives, we strive to create an inclusive environment where everyone can contribute, learn and grow.
 
 ## OWASP Innsbruck Chapter
 
