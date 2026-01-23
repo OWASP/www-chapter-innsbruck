@@ -34,5 +34,3 @@ Talk: What is OWASP? - [Slides](https://drive.google.com/file/d/1wopnlZWmWlDkLdD
 Talk and Demo: Secrets in Source Code - how to identify them, what are the risks and how to detect with open source tools. [Slides](https://drive.google.com/file/d/1hTeSzctq6HSuqY5UZJyf_CUiPrfjhSML/view?usp=sharing)
 
 The talks were delivered by Sven Schleier who is actively supporting and advocating for OWASP since 2016 as project leader for the OWASP Mobile Application Security project.
-
-<img referrerpolicy="no-referrer-when-downgrade" src="https://static.scarf.sh/a.png?x-pxid=d801338d-6e9c-4dfe-ba33-7b66389ff341" />
