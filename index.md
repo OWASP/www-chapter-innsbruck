@@ -99,6 +99,8 @@ OWASP Innsbruck was formed in September 2025 by Bettina and Sven Schleier.
 
 We would like to sincerely thank the Wirtschaftskammer (WKO) Tyrol for kindly providing their facilities and support, as well as Peter Stelzhammer, speaker of the IT Security Experts Group Tyrol of the WKO for his support.
 
+<img referrerpolicy="no-referrer-when-downgrade" src="https://static.scarf.sh/a.png?x-pxid=d801338d-6e9c-4dfe-ba33-7b66389ff341" />
+
 <script>
 // Add clickable link icons to all headings
 document.addEventListener('DOMContentLoaded', function() {
