@@ -32,7 +32,7 @@ We would like to sincerely thank the Wirtschaftskammer (WKO) Tyrol for kindly pr
 
 ## Mailinglist
 
-Join the OWASP Chapter Innsbruck mailing list <a href="https://forms.gle/vY6mwXWi1FhaHVN56">here</a>. Through the mailing list we will announce upcoming events for our Chapter and other activities in the Cyber Security Community in Tyrol.
+Join the OWASP Chapter Innsbruck mailing list <a href="https://forms.gle/vY6mwXWi1FhaHVN56">here</a>. We will use the mailing list to announce upcoming events for our chapter and other activities in the cyber security community in Tyrol.
 
 # 📅 Upcoming Events
 
