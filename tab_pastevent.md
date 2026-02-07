@@ -56,8 +56,8 @@ tags: Innsbruck
 
 <h3>Agenda</h3>
 <ul>
-  <li>17:00 - Welcome to OWASP Innsbruck + Updates - <em>Sven Schleier</em></li>
-  <li>17:15 - <strong>Talk (will be in German): How To Breach: From Unconventional Initial Access Vectors To Modern Lateral Movement - <a href="https://drive.google.com/file/d/1VC3xqvsbw4ik1Gc9bbzju6tSmpbTYcIy/view?usp=sharing">Slides</a></strong> - <em>-by Benjamin Floriani </em></li>
+  <li>17:00 - Welcome to OWASP Innsbruck + Updates <a href="https://drive.google.com/file/d/1vJChHJ0IJFMgq8CXBBGp0kOrABfE4DWA/view?usp=drive_link">Slides</a> - <em>Sven Schleier</em></li>
+  <li>17:15 - <strong>Talk (will be in German): How To Breach: From Unconventional Initial Access Vectors To Modern Lateral Movement - <a href="https://drive.google.com/file/d/1VC3xqvsbw4ik1Gc9bbzju6tSmpbTYcIy/view?usp=sharing">Slides</a></strong> - <em>by Benjamin Floriani </em></li>
   <li>18:00 - Networking &amp; Drinks ☕️|🧃|🍺</li>
 </ul>
 
