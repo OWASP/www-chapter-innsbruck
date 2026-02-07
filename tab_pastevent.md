@@ -21,8 +21,8 @@ tags: Innsbruck
 <h3>Agenda</h3>
 <ul>
   <li>17:00 - Welcome to OWASP Innsbruck + Updates - <em>Sven Schleier</em></li>
-  <li>17:15 - <strong>Semgrep: Custom Rule Writing - [Slides - TBD]()</strong> - <em>Will Douglas</em></li>
-  <li>18:00 - <strong>A Whirlwind Tour of Software Vulnerabilities - [Slides - ](https://drive.google.com/file/d/142-xzJcVNVfSJ_w13t9lyIgeSt5jDvOB/view?usp=sharing)</strong> - <em>Matthias Gander</em></li>
+  <li>17:15 - <strong>Semgrep: Custom Rule Writing - <a href="">Slides - TBD</a></strong> - <em>Will Douglas</em></li>
+  <li>18:00 - <strong>A Whirlwind Tour of Software Vulnerabilities - <a href="https://drive.google.com/file/d/142-xzJcVNVfSJ_w13t9lyIgeSt5jDvOB/view?usp=sharing">Slides</a></strong> - <em>Matthias Gander</em></li>
   <li>18:20 - Networking &amp; Drinks ☕️|🧃|🍺</li>
 </ul>
 
@@ -57,7 +57,7 @@ tags: Innsbruck
 <h3>Agenda</h3>
 <ul>
   <li>17:00 - Welcome to OWASP Innsbruck + Updates - <em>Sven Schleier</em></li>
-  <li>17:15 - <strong>Talk (will be in German): How To Breach: From Unconventional Initial Access Vectors To Modern Lateral Movement - [Slides](https://drive.google.com/file/d/1VC3xqvsbw4ik1Gc9bbzju6tSmpbTYcIy/view?usp=sharing)</strong> - <em>-by Benjamin Floriani </em></li>
+  <li>17:15 - <strong>Talk (will be in German): How To Breach: From Unconventional Initial Access Vectors To Modern Lateral Movement - <a href="https://drive.google.com/file/d/1VC3xqvsbw4ik1Gc9bbzju6tSmpbTYcIy/view?usp=sharing">Slides</a></strong> - <em>-by Benjamin Floriani </em></li>
   <li>18:00 - Networking &amp; Drinks ☕️|🧃|🍺</li>
 </ul>
 
@@ -87,8 +87,8 @@ Our first event happened on 30th October 2025!
 <h3>Agenda</h3>
 <ul>
   <li>17:00 - Welcome to OWASP Innsbruck + Updates - <em>Sven Schleier</em></li>
-  <li>17:15 - <strong>What is OWASP? - [Slides](https://drive.google.com/file/d/1wopnlZWmWlDkLdDodU_0sZauCxpIhyWe/view?usp=drive_link)</strong> - <em>Sven Schleier</em></li>
-  <li>17:30 - <strong>Secrets in Source Code - how to identify them, what are the risks and how to detect with open source tools. [Slides](https://drive.google.com/file/d/1hTeSzctq6HSuqY5UZJyf_CUiPrfjhSML/view?usp=sharing)</strong> - <em>Sven Schleier</em></li>
+  <li>17:15 - <strong>What is OWASP? - <a href="https://drive.google.com/file/d/1wopnlZWmWlDkLdDodU_0sZauCxpIhyWe/view?usp=drive_link">Slides</a></strong> - <em>Sven Schleier</em></li>
+  <li>17:30 - <strong>Secrets in Source Code - how to identify them, what are the risks and how to detect with open source tools. <a href="https://drive.google.com/file/d/1hTeSzctq6HSuqY5UZJyf_CUiPrfjhSML/view?usp=sharing">Slides</a></strong> - <em>Sven Schleier</em></li>
   <li>18:00 - Networking &amp; Drinks ☕️|🧃|🍺</li>
 </ul>
 

@@ -63,7 +63,7 @@ We would like to sincerely thank the Wirtschaftskammer (WKO) Tyrol for kindly pr
 <p><strong>📅 When:</strong> Bi-monthly, next on Thursday, 9th April, 2026</p>
 <p><strong>🕐 Time:</strong> 17:00 - 18:30</p>
 <p><strong>📍 Location:</strong> Wirtschaftskammer Tirol, Wilhelm-Greil-Str 7, 6020 Innsbruck</p>
-<p><strong>🗣️ Language:</strong> This time, the entire meet-up will be in English!</p>
+<p><strong>🗣️ Language:</strong> The talks will be in English!</p>
 
 <!-- <p><strong><a href="http://veranstaltung.wktirol.at/28037">📝 Register Here →</a></strong></p> -->
 
