@@ -30,6 +30,10 @@ OWASP Innsbruck was formed in September 2025 by Bettina and Sven Schleier.
 
 We would like to sincerely thank the Wirtschaftskammer (WKO) Tyrol for kindly providing their facilities and support, as well as Peter Stelzhammer, speaker of the IT Security Experts Group Tyrol of the WKO for his support.
 
+## Mailinglist
+
+Join the OWASP Chapter Innsbruck mailing list <a href="https://forms.gle/vY6mwXWi1FhaHVN56">here</a>. Through the mailing list we will announce upcoming events for our Chapter and other activities in the Cyber Security Community in Tyrol.
+
 # 📅 Upcoming Events
 
 ## ☕ Informal Networking for the Local Cyber Security Community
