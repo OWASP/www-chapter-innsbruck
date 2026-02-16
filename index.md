@@ -40,7 +40,7 @@ Join the OWASP Chapter Innsbruck mailing list <a href="https://forms.gle/vY6mwXW
 
 <div style="background-color: #fff7f0; border-left: 4px solid #ff6b35; padding: 20px; margin-bottom: 20px;">
 
-<p><strong>📅 When:</strong> Bi-Monthly, next one will be in March and will be announced here soon</p>
+<p><strong>📅 When:</strong> Bi-Monthly, next on Wednesday, 18th March, 2026</p>
 <p><strong>🕐 Time:</strong> 18:30 onwards</p>
 <p><strong>📍 Location:</strong> We've reserved a space at "Wohnzimmer" Fürstenweg 5, 6020 Innsbruck</p>
 <p><strong>🗣️ Language:</strong> German and English</p>
