@@ -65,7 +65,7 @@ Join the OWASP Chapter Innsbruck mailing list <a href="https://forms.gle/vY6mwXW
 <div style="background-color: #f0f7ff; border-left: 4px solid #0066cc; padding: 20px; margin-bottom: 20px;">
 
 <p><strong>📅 When:</strong> Bi-monthly, next on Thursday, 9th April, 2026</p>
-<p><strong>🕐 Time:</strong> 17:00 - 18:30</p>
+<p><strong>🕐 Time:</strong> 17:00 - 19:00</p>
 <p><strong>📍 Location:</strong> Wirtschaftskammer Tirol, Wilhelm-Greil-Str 7, 6020 Innsbruck</p>
 <p><strong>🗣️ Language:</strong> The talks will be in English!</p>
 
