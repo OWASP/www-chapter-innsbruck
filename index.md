@@ -74,7 +74,7 @@ Join the OWASP Chapter Innsbruck mailing list <a href="https://forms.gle/vY6mwXW
 <h3>Agenda</h3>
 <ul>
   <li>17:00 - Welcome to OWASP Innsbruck + Updates - <em>Sven Schleier</em></li>
-  <li>17:10 - <strong>Introduction into Cyber Resilience Act (CRA)</strong> - <em>Maximiliane Mayer</em></li>
+  <li>17:10 - <strong>Introduction into the Cyber Resilience Act (CRA)</strong> - <em>Maximiliane Mayer</em></li>
   <li>17:40 - <strong>Privacy Threat Modeling in Practice</strong> - <em>Catherine Easdon</em></li>
   <li>18:10 - Networking &amp; Drinks ☕️|🧃|🍺</li>
 </ul>
