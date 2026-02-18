@@ -20,8 +20,8 @@ tags: Innsbruck
 
 <h3>Agenda</h3>
 <ul>
-  <li>17:00 - Welcome to OWASP Innsbruck + Updates - <em>Sven Schleier</em></li>
-  <li>17:15 - <strong>Semgrep: Custom Rule Writing - <a href="">Slides - TBD</a></strong> - <em>Will Douglas</em></li>
+  <li>17:00 - Welcome to OWASP Innsbruck - Updates and challenges due to AI Slop in Open Source projects - <em>Sven Schleier</em> <a href="https://drive.google.com/file/d/1vJChHJ0IJFMgq8CXBBGp0kOrABfE4DWA/view?usp=sharing">Slides</a></strong></li>
+  <li>17:15 - <strong>Semgrep: Custom Rule Writing - <a href="https://drive.google.com/file/d/1VboEB7jGbpAMe-3JnDM2kBTVYGzMeS-_/view?usp=drive_link">Slides</a></strong> - <em>Will Douglas</em></li>
   <li>18:00 - <strong>A Whirlwind Tour of Software Vulnerabilities - <a href="https://drive.google.com/file/d/142-xzJcVNVfSJ_w13t9lyIgeSt5jDvOB/view?usp=sharing">Slides</a></strong> - <em>Matthias Gander</em></li>
   <li>18:20 - Networking &amp; Drinks ☕️|🧃|🍺</li>
 </ul>
