@@ -81,7 +81,17 @@ Join the OWASP Chapter Innsbruck mailing list <a href="https://forms.gle/vY6mwXW
 
 <h3>Details to talks</h3>
 
-<h4>TBD</h4>
+<h4>Talk: Introduction into the Cyber Resilience Act (CRA) by Maximiliane Mayer</h4>
+
+<p><strong>Abstract:</strong></p>
+
+<p>SBOMs, vulnerability reporting, secure-by-design requirements - suddenly your security backlog might be getting a little help from EU legislation. The Cyber Resilience Act is coming, and it applies to more software and products than many teams realize. This talk gives a quick, practical walkthrough of what the CRA is, what it actually requires, and how we can prepare before compliance becomes urgent.</p>
+
+<h4>Talk: Privacy Threat Modeling in Practice by Catherine Easdon</h4>
+
+<p><strong>Abstract:</strong></p>
+
+<p>Firewall configured? Check. Dubious AI tool sandboxed? Check. Yet some threats come from within. To learn how things might go wrong when the system uses data exactly as you intended it to, join us for an intro to privacy threats: what are they, why do they matter, and how can we prevent them?</p>
 
 </div>
 
