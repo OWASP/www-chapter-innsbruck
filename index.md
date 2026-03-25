@@ -71,26 +71,6 @@ Join the OWASP Chapter Innsbruck mailing list <a href="https://forms.gle/vY6mwXW
 
 </div>
 
-## 🎤 5th OWASP Chapter Meeting - Thursday 11th June, 2026
-
-<div style="background-color: #f0f7ff; border-left: 4px solid #0066cc; padding: 20px; margin-bottom: 20px;">
-
-<p><strong>📅 When:</strong> Bi-monthly, next on Thursday, 11th June, 2026</p>
-<p><strong>🕐 Time:</strong> 17:00 - 19:00</p>
-<p><strong>📍 Location:</strong> Wirtschaftskammer Tirol, Wilhelm-Greil-Str 7, 6020 Innsbruck</p>
-<p><strong>🗣️ Language:</strong> The talks will be in English!</p>
-
-<p><strong>Registration coming soon</a></strong></p>
-
-<h3>Agenda</h3>
-<ul>
-  <li>17:00 - Welcome to OWASP Innsbruck + Updates - <em>Sven Schleier</em></li>
-  <li>17:10 - <strong>Talk - TBD</strong> - <em>Michael Brunner</em></li>
-  <li>Networking &amp; Drinks ☕️|🧃|🍺</li>
-</ul>
-
-</div>
-
 ## ☕ Informal Networking for the Local Cyber Security Community
 
 <div style="background-color: #fff7f0; border-left: 4px solid #ff6b35; padding: 20px; margin-bottom: 20px;">
@@ -111,6 +91,27 @@ Join the OWASP Chapter Innsbruck mailing list <a href="https://forms.gle/vY6mwXW
 </ul>
 
 <p>We are looking forward to meet you!</p>
+
+</div>
+
+
+## 🎤 5th OWASP Chapter Meeting - Thursday 11th June, 2026
+
+<div style="background-color: #f0f7ff; border-left: 4px solid #0066cc; padding: 20px; margin-bottom: 20px;">
+
+<p><strong>📅 When:</strong> Bi-monthly, next on Thursday, 11th June, 2026</p>
+<p><strong>🕐 Time:</strong> 17:00 - 19:00</p>
+<p><strong>📍 Location:</strong> Wirtschaftskammer Tirol, Wilhelm-Greil-Str 7, 6020 Innsbruck</p>
+<p><strong>🗣️ Language:</strong> The talks will be in English!</p>
+
+<p><strong>Registration coming soon</a></strong></p>
+
+<h3>Agenda</h3>
+<ul>
+  <li>17:00 - Welcome to OWASP Innsbruck + Updates - <em>Sven Schleier</em></li>
+  <li>17:10 - <strong>Talk - TBD</strong> - <em>Michael Brunner</em></li>
+  <li>Networking &amp; Drinks ☕️|🧃|🍺</li>
+</ul>
 
 </div>
 
