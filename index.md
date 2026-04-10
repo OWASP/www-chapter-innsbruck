@@ -36,41 +36,6 @@ Join the OWASP Chapter Innsbruck mailing list <a href="https://forms.gle/vY6mwXW
 
 # 📅 Upcoming Events
 
-## 🎤 4th OWASP Chapter Meeting - Thursday 9th April, 2026
-
-<div style="background-color: #f0f7ff; border-left: 4px solid #0066cc; padding: 20px; margin-bottom: 20px;">
-
-<p><strong>📅 When:</strong> Bi-monthly, next on Thursday, 9th April, 2026</p>
-<p><strong>🕐 Time:</strong> 17:00 - 19:00</p>
-<p><strong>📍 Location:</strong> Wirtschaftskammer Tirol, Wilhelm-Greil-Str 7, 6020 Innsbruck</p>
-<p><strong>🗣️ Language:</strong> The talks will be in English!</p>
-
-<p><strong><a href="https://veranstaltung.wktirol.at?eid=28712">📝 Register Here</a></strong></p>
-
-<h3>Agenda</h3>
-<ul>
-  <li>17:00 - Welcome to OWASP Innsbruck + Updates - <em>Sven Schleier</em></li>
-  <li>17:10 - <strong>Introduction into the Cyber Resilience Act (CRA)</strong> - <em>Maximiliane Mayer</em></li>
-  <li>17:40 - <strong>Privacy Threat Modeling in Practice</strong> - <em>Catherine Easdon</em></li>
-  <li>18:10 - Networking &amp; Drinks ☕️|🧃|🍺</li>
-</ul>
-
-<h3>Details to talks</h3>
-
-<h4>Talk: Introduction into the Cyber Resilience Act (CRA) by Maximiliane Mayer</h4>
-
-<p><strong>Abstract:</strong></p>
-
-<p>SBOMs, vulnerability reporting, secure-by-design requirements - suddenly your security backlog might be getting a little help from EU legislation. The Cyber Resilience Act is coming, and it applies to more software and products than many teams realize. This talk gives a quick, practical walkthrough of what the CRA is, what it actually requires, and how we can prepare before compliance becomes urgent.</p>
-
-<h4>Talk: Privacy Threat Modeling in Practice by Catherine Easdon</h4>
-
-<p><strong>Abstract:</strong></p>
-
-<p>Firewall configured? Check. Dubious AI tool sandboxed? Check. Yet some threats come from within. To learn how things might go wrong when the system uses data exactly as you intended it to, join us for an intro to privacy threats: what are they, why do they matter, and how can we prevent them?</p>
-
-</div>
-
 ## ☕ Informal Networking for the Local Cyber Security Community
 
 <div style="background-color: #fff7f0; border-left: 4px solid #ff6b35; padding: 20px; margin-bottom: 20px;">
@@ -104,12 +69,13 @@ Join the OWASP Chapter Innsbruck mailing list <a href="https://forms.gle/vY6mwXW
 <p><strong>📍 Location:</strong> Wirtschaftskammer Tirol, Wilhelm-Greil-Str 7, 6020 Innsbruck</p>
 <p><strong>🗣️ Language:</strong> The talks will be in English!</p>
 
-<p><strong>Registration coming soon</a></strong></p>
+<p><strong>Registration coming soon</strong></p>
 
 <h3>Agenda</h3>
 <ul>
   <li>17:00 - Welcome to OWASP Innsbruck + Updates - <em>Sven Schleier</em></li>
   <li>17:10 - <strong>Talk - TBD</strong> - <em>Michael Brunner</em></li>
+  <li>17:40 - <strong>Talk - TBD</strong> - <em>David Gstir</em></li>
   <li>Networking &amp; Drinks ☕️|🧃|🍺</li>
 </ul>
 
