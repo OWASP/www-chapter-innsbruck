@@ -18,13 +18,11 @@ tags: Innsbruck
 <p><strong>📍 Location:</strong> Wirtschaftskammer Tirol, Wilhelm-Greil-Str 7, 6020 Innsbruck</p>
 <p><strong>🗣️ Language:</strong> The talks will be in English!</p>
 
-<p><strong><a href="https://veranstaltung.wktirol.at?eid=28712">📝 Register Here</a></strong></p>
-
 <h3>Agenda</h3>
 <ul>
-  <li>17:00 - Welcome to OWASP Innsbruck + Updates - <em>Sven Schleier</em> <a href="https://drive.google.com/file/d/1H8uo5ZWuuQGlgEzE6ASLP4VK-auDfu42/view?usp=drive_link">Slides</a></strong></li>
-  <li>17:10 - <strong>Introduction into the Cyber Resilience Act (CRA)</strong> - <em>Maximiliane Mayer</em> <a href="https://drive.google.com/file/d/1FzLX2REEUVWPFdKr77vvEfLL_0HCwzBD/view?usp=sharing">Slides</a></li>
-  <li>17:40 - <strong>Privacy Threat Modeling in Practice</strong> - <em>Catherine Easdon</em> <a href="https://drive.google.com/file/d/1aTqFkUcvZ-OCrXxCyFg0TWPiaMAM9vcG/view?usp=sharing">Slides</a></li>
+  <li>17:00 - <strong>Welcome to OWASP Innsbruck + Updates </strong>- <em>Sven Schleier</em> - <a href="https://drive.google.com/file/d/1H8uo5ZWuuQGlgEzE6ASLP4VK-auDfu42/view?usp=drive_link">Slides</a></li>
+  <li>17:10 - <strong>Introduction into the Cyber Resilience Act (CRA)</strong> - <em>Maximiliane Mayer</em> - <a href="https://drive.google.com/file/d/1FzLX2REEUVWPFdKr77vvEfLL_0HCwzBD/view?usp=sharing">Slides</a></li>
+  <li>17:40 - <strong>Privacy Threat Modeling in Practice</strong> - <em>Catherine Easdon</em> - <a href="https://drive.google.com/file/d/1aTqFkUcvZ-OCrXxCyFg0TWPiaMAM9vcG/view?usp=sharing">Slides</a></li>
   <li>18:10 - Networking &amp; Drinks ☕️|🧃|🍺</li>
 </ul>
 
