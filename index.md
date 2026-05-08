@@ -65,7 +65,7 @@ Join the OWASP Chapter Innsbruck mailing list <a href="https://forms.gle/vY6mwXW
 <div style="background-color: #f0f7ff; border-left: 4px solid #0066cc; padding: 20px; margin-bottom: 20px;">
 
 <p><strong>📅 When:</strong> Bi-monthly, next on Thursday, 11th June, 2026</p>
-<p><strong>🕐 Time:</strong> 17:00 - 19:00</p>
+<p><strong>🕐 Time:</strong> 17:30 - 19:30</p>
 <p><strong>📍 Location:</strong> Wirtschaftskammer Tirol, Wilhelm-Greil-Str 7, 6020 Innsbruck</p>
 <p><strong>🗣️ Language:</strong> The talks will be in English!</p>
 
@@ -73,11 +73,28 @@ Join the OWASP Chapter Innsbruck mailing list <a href="https://forms.gle/vY6mwXW
 
 <h3>Agenda</h3>
 <ul>
-  <li>17:00 - Welcome to OWASP Innsbruck + Updates - <em>Sven Schleier</em></li>
-  <li>17:10 - <strong>Talk - TBD</strong> - <em>Michael Brunner</em></li>
-  <li>17:40 - <strong>Talk - TBD</strong> - <em>David Gstir</em></li>
+  <li>17:30 - Welcome to OWASP Innsbruck + Updates - <em>Sven Schleier</em></li>
+  <li>17:40 - <strong>Cyber Resilience Act: Risk Assessment and PSIRT – Let's be pragmatic</strong> - <em>Michael Brunner</em></li>
+  <li>18:10 - <strong>Where Do We Go From Here? Security Audits in the Age of AI</strong> - <em>David Gstir</em></li>
   <li>Networking &amp; Drinks ☕️|🧃|🍺</li>
 </ul>
+
+
+<h3>Details to talks</h3>
+
+<h4>Talk: Cyber Resilience Act: Risk Assessment and PSIRT – Let's be pragmatic by Michael Brunner</h4>
+
+<p><strong>Abstract:</strong></p>
+
+<p>Since we all should know by now what's coming ... I'd like to ponder on the following question: How should we deal with the regulatory requirements of conducting cyber risk assessments and handling the vulnerabilities of our software products. In my talk I will point out why these two tasks are so important and how an pragmatic approach could look like.</p>
+
+<h4>Talk: Where Do We Go From Here? Security Audits in the Age of AI by David Gstir</h4>
+
+<p><strong>Abstract:</strong></p>
+
+<p>With frontier AI models now capable of finding complex vulnerabilities in large codebases, a major shift in the IT security industry is inevitable. But are these models really the solution, and what does this mean for the future of our industry? Join David to explore these questions, hear his insights, and engage in an open discussion.</p>
+
+</div>
 
 </div>
 
