@@ -69,7 +69,7 @@ Join the OWASP Chapter Innsbruck mailing list <a href="https://forms.gle/vY6mwXW
 <p><strong>📍 Location:</strong> Wirtschaftskammer Tirol, Wilhelm-Greil-Str 7, 6020 Innsbruck</p>
 <p><strong>🗣️ Language:</strong> The talks will be in English!</p>
 
-<p><strong>Registration link for the event: https://veranstaltung.wktirol.at/?eid=29108</strong></p>
+<p><strong><a href="https://veranstaltung.wktirol.at/?eid=29108">Registration link for the event</a></strong></p>
 
 <h3>Agenda</h3>
 <ul>
