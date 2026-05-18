@@ -11,7 +11,6 @@ country: Austria
 
 ![logo](img/Owasp_Tirol_Logo%20Berge.jpg)
 
-
 # Welcome 
 
 Welcome to the OWASP Innsbruck Chapter, your regional chapter in Tyrol, Austria.
@@ -40,9 +39,9 @@ Join the OWASP Chapter Innsbruck mailing list <a href="https://forms.gle/vY6mwXW
 
 <div style="background-color: #fff7f0; border-left: 4px solid #ff6b35; padding: 20px; margin-bottom: 20px;">
 
-<p><strong>📅 When:</strong> Bi-Monthly, next in May 2026</p>
-<p><strong>🕐 Time:</strong> 18:30 onwards</p>
-<p><strong>📍 Location:</strong> We've reserved a space at "Wohnzimmer" Fürstenweg 5, 6020 Innsbruck</p>
+<p><strong>📅 When:</strong> 28th May 2026</p>
+<p><strong>🕐 Time:</strong> 18:00 onwards</p>
+<p><strong>📍 Location:</strong> A space was reserved at "The Galway Bay - Irish Pub" at 4 Kaiserjägerstraße, 6020 Innsbruck</p>
 <p><strong>🗣️ Language:</strong> German and English</p>
 
 <p>Casual meetup for people interested in cybersecurity in Innsbruck! No formal presentations—just good conversations, knowledge sharing, and networking over coffee or drinks.</p>
@@ -58,7 +57,6 @@ Join the OWASP Chapter Innsbruck mailing list <a href="https://forms.gle/vY6mwXW
 <p>We are looking forward to meet you!</p>
 
 </div>
-
 
 ## 🎤 5th OWASP Chapter Meeting - Thursday 11th June, 2026
 
@@ -79,7 +77,6 @@ Join the OWASP Chapter Innsbruck mailing list <a href="https://forms.gle/vY6mwXW
   <li>Networking &amp; Drinks ☕️|🧃|🍺</li>
 </ul>
 
-
 <h3>Details to talks</h3>
 
 <h4>Talk: Cyber Resilience Act: Risk Assessment and PSIRT – Let's be pragmatic by Michael Brunner</h4>
@@ -95,7 +92,6 @@ Join the OWASP Chapter Innsbruck mailing list <a href="https://forms.gle/vY6mwXW
 <p>With frontier AI models now capable of finding complex vulnerabilities in large codebases, a major shift in the IT security industry is inevitable. But are these models really the solution, and what does this mean for the future of our industry? Join David to explore these questions, hear his insights, and engage in an open discussion.</p>
 
 </div>
-
 
 <img referrerpolicy="no-referrer-when-downgrade" src="https://static.scarf.sh/a.png?x-pxid=d801338d-6e9c-4dfe-ba33-7b66389ff341" />
 
